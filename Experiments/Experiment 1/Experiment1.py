@@ -4,3 +4,5 @@ word_to_id = {
     "apple": 3,
     "computer": 4
 }
+
+print(word_to_id.values())
