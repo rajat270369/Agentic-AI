@@ -68,5 +68,5 @@
 
 
 
-#### When we type a sentence the way LLM models understand it is by breaking them into smaller parts so that the model can understand the what's being said more clearly. These tokens could be words, Characters or words. In general words are mostly used for best efficiency.
+#### When we type a sentence the way LLM models understand is by breaking them into smaller parts so that the model can understand the what's being said more clearly. These tokens could be words, Characters or words. In general words are mostly used for best efficiency.
 
