@@ -36,5 +36,27 @@
 
 
 
+### 
 
+### Introduction to Embeddings
+
+
+
+#### An embedding is a vector that represents the meaning of a word.
+
+
+
+#### Unlike ASCII or Unicode, embeddings are not just IDs.
+
+
+
+#### Similar words have similar vectors.
+
+
+
+#### Because embeddings are vectors, operations like the dot product can measure similarity between words.
+
+
+
+#### This is one of the key ideas that allows LLMs to understand relationships between words.
 
